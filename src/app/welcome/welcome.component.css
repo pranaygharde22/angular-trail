@@ -5,11 +5,13 @@ body {
 ul {
   list-style-type: none;
   margin-left: 0;
+  margin-top: 0;
   padding: 0;
   width: 100%;
   background-color: rgb(0 95 135 / 74%);
   position: fixed;
   height: 6%;
+  margin-right: 0;
 }
 
 li a {
@@ -23,10 +25,12 @@ li a {
   width: 4%;
   background-color: rgb(0 95 135 / 74%);
   height: 100%;
+  margin-top: 2.75em;
 }
 .left {
   width: 10%;
   background-color: rgb(0 95 135 / 74%);
   height: 100%;
   margin-left: 99.8%;
+  margin-top: 2.75em;
 }
