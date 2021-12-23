@@ -3,7 +3,7 @@
   width: 70px;
   position: fixed;
   z-index: 1;
-  top: 55px;
+  top: 50px;
   left: 0;
   background-color: #18698b;
   overflow-x: hidden;
@@ -38,4 +38,8 @@
 }
 .navbar-custom {
   background-color: #18698b;
+  height: 50px;
+}
+.topnav-right {
+  float: right;
 }
